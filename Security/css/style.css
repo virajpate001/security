@@ -1790,7 +1790,7 @@ div#mCSB_1_container{
   padding-left: 27px;
 }
 
-.content_block_1 .content-box .list-item li:before{
+/* .content_block_1 .content-box .list-item li:before{
   position: absolute;
   content: "\f00c";
   font-family: 'Font Awesome 5 Pro';
@@ -1798,7 +1798,7 @@ div#mCSB_1_container{
   font-weight: 700;
   left: 0px;
   top: 0px;
-}
+} */
 
 .content_block_1 .content-box .list-item{
   margin-bottom: 40px;
@@ -2366,7 +2366,7 @@ div#mCSB_1_container{
 
 .cta-section{
   position: relative;
-  padding: 100px 0px;
+  padding: 60px 0px;
 }
 
 .cta-section .inner-box{
@@ -6227,4 +6227,13 @@ div#mCSB_1_container{
 
 .right-column p{
  color:#d9d3d3;
+}
+
+
+.mrn{
+  margin-right: 10px
+}
+
+.dn{
+  display: none;
 }
