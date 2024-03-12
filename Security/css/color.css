@@ -23,7 +23,7 @@
 .main-header .social-links li a:hover{
   background: #f9e012;
   border-color: #f9e012;
-  color: #040055;
+  color: #f9e012;
 }
 
 .main-menu .navigation > li > a:before{
@@ -73,15 +73,15 @@
 }
 
 .sec-title h2:before{
-  background: #e53622;
+  background: #040055;
 }
 
 .image_block_1 .image-box .image-1:before{
-  background: #e53622;
+  background: #040055;
 }
 
 .image_block_1 .image-box .image-content .inner h2{
-  color: #e53622;
+  color: #040055;
 }
 
 .content_block_1 .content-box .list-item li:before{
@@ -89,7 +89,7 @@
 }
 
 .content_block_1 .content-box blockquote .icon{
-  color: #e53622;
+  color: #040055;
 }
 
 .content_block_1 .content-box .author-box .author-thumb{
@@ -97,11 +97,11 @@
 }
 
 .service-block-one .inner-box .lower-content .inner .category span{
-  background: #e53622;
+  background: #040055;
 }
 
 .service-block-one .inner-box .lower-content .inner .category-box .category .shape{
-  background: #e53622;
+  background: #040055;
 }
 
 .service-block-one .inner-box .lower-content .inner h3 a:hover{
@@ -109,11 +109,11 @@
 }
 
 .service-block-one .inner-box .lower-content .inner .link a:hover{
-  color: #e53622;
+  color: #f9e012;
 }
 
 .chat-box .inner .image-box i{
-  background: #e53622;
+  background: #040055;
 }
 
 .content_block_2 .content-box .tab-btns li:hover,
@@ -131,7 +131,7 @@
 }
 
 .bg-color-3{
-  background-color: #e53622;
+  background-color: #040055;
 }
 
 .cta-section .inner-box .btn-box a:hover{
@@ -147,7 +147,7 @@
 }
 
 .image_block_2 .image-box .text{
-  background: #e53622;
+  background: #040055;
 }
 
 .content_block_3 .content-box .inner-box .single-item .icon-box{
@@ -155,7 +155,7 @@
 }
 
 .content_block_3 .content-box .inner-box .single-item h3 span{
-  color: #e53622;
+  color: #040055;
 }
 
 .content_block_4 .content-box .list-item li:before{
